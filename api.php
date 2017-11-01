@@ -18,7 +18,7 @@
             "message"  => "Success",
             "data"     => array(
             "username" => $username,
-            "realname" => "Andi WawanK"
+            "realname" => "AndiWawanK"
             )
           ));
   }
